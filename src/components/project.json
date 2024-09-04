@@ -1,0 +1,119 @@
+[
+    {
+        "id": 89,
+        "name": "Farmers Pick",
+        "amt": "299",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://i.pinimg.com/564x/1e/a7/fc/1ea7fca510708ed25f97b2ca63809d32.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 90,
+        "name": "Plain Dosa It is Very",
+        "amt": "100",
+        "shop": "Dosai Kadai",
+        "ftype": "Dosa",
+        "pic": "https://i.pinimg.com/564x/6e/10/c7/6e10c7c0c11d6e2a28d6c51c3877774a.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 91,
+        "name": "Idli",
+        "amt": "50",
+        "shop": "Idli Kadai",
+        "ftype": "Idli",
+        "pic": "https://i.pinimg.com/564x/f4/d5/35/f4d535a76f86f7c909f15cf0457ccbf2.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 92,
+        "name": "Chicken Burger",
+        "amt": "150",
+        "shop": "Burger King",
+        "ftype": "Burger",
+        "pic": "https://i.pinimg.com/564x/22/29/0d/22290dcfd246cc18d795fe19750e6e68.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 93,
+        "name": "Mutton Briyani",
+        "amt": "300",
+        "shop": "Briyani Kadai",
+        "ftype": "Briyani",
+        "pic": "https://i.pinimg.com/564x/22/29/0d/22290dcfd246cc18d795fe19750e6e68.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 94,
+        "name": "Kothi Parotta",
+        "amt": "100",
+        "shop": "Briyani Kadai",
+        "ftype": "Parotta",
+        "pic": "https://i.pinimg.com/564x/62/ad/d6/62add6fae4dba7ef658ab8017376d83a.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 95,
+        "name": "Ban Parotta",
+        "amt": "100",
+        "shop": "Briyani Kadai",
+        "ftype": "Parotta",
+        "pic": "https://i.pinimg.com/564x/e3/a7/98/e3a798d092e1306de9f44b6c543180c3.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 96,
+        "name": "Pani Puri",
+        "amt": "80",
+        "shop": "Briyani Kadai",
+        "ftype": "Puri",
+        "pic": "https://i.pinimg.com/564x/a4/22/03/a42203eb9c602a76fb112463a9e89494.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 14,
+        "name": "John Doe",
+        "amt": 199,
+        "shop": "SuperMart",
+        "ftype": "Shawarma",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_jruugu-cjfrAwMBw0LqprM4lduv_2UvlA&s",
+        "latest": "yes"
+    },
+    {
+        "id": 214,
+        "name": "Jane Smith",
+        "amt": 159,
+        "shop": "HealthyFoods",
+        "ftype": "Burrger",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZuHTiGWB-2IMLv4VAejR5Ts6KZI59xcNmMQ&s",
+        "latest": "yes"
+    },
+    {
+        "id": 235,
+        "name": "Alice Johnson",
+        "amt": 299,
+        "shop": "GreenGrocer",
+        "ftype": "Pizza",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Lj3_8eh0xYQLDhyh1pYwOF6l00mL7hIfww&s",
+        "latest": "yes"
+    },
+    {
+        "id": 211,
+        "name": "Jane Smith",
+        "amt": 159,
+        "shop": "HealthyFoods",
+        "ftype": "Noodels",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRj4fbDzlSwNqWoBrAIR5tG2DH7S2u4I9qTg&s",
+        "latest": "yes"
+    },
+    {
+        "id": 249,
+        "name": "Alice",
+        "amt": 199,
+        "shop": "Greocer",
+        "ftype": " Chicken Briyani",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgtUlQ7j1qqkT6Q9Sousf681_ChiXUvrsLw&s",
+        "latest": "yes"
+    }
+]
